@@ -1,0 +1,4 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+Because it will show me on which line of the two files there is a differnce. Even if there are millions lines I would see the difference right away.
+It is so much easier to spot an error, because the area to search is smaller.
