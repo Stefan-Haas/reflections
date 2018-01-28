@@ -1,5 +1,14 @@
 Q: What happens when you initialize a repository? Why do you need to do it?
-A hidden .git directory will be created where the metadata aboput he files will be stored. There the tracking information is saved. This is necessaray to let git track the project.
+A hidden .git directory will be created where the meta data about he files will be stored. There the tracking information is saved. This is necessary to let git track the project.
 
 Q: How is the staging area different from the working directory and the repository? What value do you think it offers?
 A: The staging area is between the two directories. It is not a real directory, but more something like a step where someone adds files so git knows which to track. It is useful because I can choose which files to track and which not.
+
+Q: How can you use the staging area to make sure you have one commit per logical change?
+A: With git add I choose which changes will be committed. So I have to make it so, that there is only one logical change per commit
+
+Q: What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+A: If I want to try something out, but dont want to revert the changes every time. I could make a branch with my changes but still work at the master branch.
+
+Q: How do the diagrams help you visualize the branch structure?
+A: Withe --diag it is easy to see where a new branch started. It is more intuitive to see.
