@@ -12,3 +12,7 @@ A: If I want to try something out, but dont want to revert the changes every tim
 
 Q: How do the diagrams help you visualize the branch structure?
 A: Withe --diag it is easy to see where a new branch started. It is more intuitive to see.
+
+Q: What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+A: Pro of automerging is less work for me, con is that I have less control. Merging manually is more control  but also much more work.
