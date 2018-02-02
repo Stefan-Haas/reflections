@@ -1,1 +1,2 @@
-
+Q: When would you want to use a remote repository rather than keeping all your work local?
+A: When I work with more people, or when I work on different computers. But it is also useful as a backup.
