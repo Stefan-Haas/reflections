@@ -3,3 +3,6 @@ A: When I work with more people, or when I work on different computers. But it i
 
 Q: Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 A: Because the work of other contributer could interfere with the code i am currently working on.
+
+Q: Describe the differences between forks, clones, and branches. When would you use one instead of another?
+A: Clone clones the rep to your directory. branches makes a new head and forking clones on the server side. Branching if I want to try something new out, Cloning if I start collaborating on a project and forking if i want to start something new from another project.
