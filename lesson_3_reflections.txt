@@ -8,4 +8,8 @@ Q: Describe the differences between forks, clones, and branches. When would you 
 A: Clone clones the rep to your directory. branches makes a new head and forking clones on the server side. Branching if I want to try something new out, Cloning if I start collaborating on a project and forking if i want to start something new from another project.
 
 Q: What is the benefit of having a copy of the last known state of the remote stored locally?
-A: So it is possible to see easily the changes between my last local commit and the remote rep. 
+A: So it is possible to see easily the changes between my last local commit and the remote rep.
+
+Q: How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+A: It would be almost impossible to work on the same files at the same time with different people or at least extremly cumbersome. If everyone works on different file maybe it is easier because no one would have to learn git :D
+
