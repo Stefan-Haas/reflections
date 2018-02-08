@@ -6,3 +6,6 @@ A: Because the work of other contributer could interfere with the code i am curr
 
 Q: Describe the differences between forks, clones, and branches. When would you use one instead of another?
 A: Clone clones the rep to your directory. branches makes a new head and forking clones on the server side. Branching if I want to try something new out, Cloning if I start collaborating on a project and forking if i want to start something new from another project.
+
+Q: What is the benefit of having a copy of the last known state of the remote stored locally?
+A: So it is possible to see easily the changes between my last local commit and the remote rep. 
